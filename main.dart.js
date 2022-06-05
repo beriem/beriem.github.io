@@ -48894,7 +48894,7 @@ l=m?1:0
 k=o?B.ut:B.uw
 j=t.p
 a=A.bf(!1,b,!0,new A.lI(1.78,A.dN(B.au,A.a([new A.rC(r,b),A.abV(!1,A.df(A.Um(k,m,new A.aBE(c),!1),b,b),B.U,B.ef,l)],j),B.eU,b,b),b),b,!0,b,b,b,b,b,b,new A.aBF(c,a.c!=="nouser@merim.blog",a1,q),b,b,b,b,b,b,b,b,b)
-m=A.av(q.b,b,B.aM,b,b,A.cP(b,b,b,b,b,b,b,b,"Tajawal-Light",b,b,p?16:14,b,b,b,b,!0,b,b,b,b,b,b,b,b),b,b)
+m=A.av(q.b,24,B.aM,b,b,A.cP(b,b,b,b,b,b,b,b,"Tajawal-Light",b,b,p?16:14,b,b,b,b,!0,b,b,b,b,b,b,b,b),b,b)
 l=q.c
 i=l.length
 h=J.fI(i,t.l7)
